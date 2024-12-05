@@ -6,7 +6,7 @@ Incidents with Machine Learning
 
 1. Objective:
 
-   The objective of this project is to classify cybersecurity incidents by predicting their triage grade using machine learning techniques. This classification aims to assist Security Operation Centers (SOCs) in managing and prioritizing incidents more efficiently, enabling quicker responses to critical threats.
+The objective of this project is to classify cybersecurity incidents by predicting their triage grade using machine learning techniques. This classification aims to assist Security Operation Centers (SOCs) in managing and prioritizing incidents more efficiently, enabling quicker responses to critical threats.
 
 3. Methodology:
 
